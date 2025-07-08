@@ -1,4 +1,13 @@
-odd{
-    background-color: rgb(238,130,238);
-    font-family: Verdana, sans-serif;
+both{
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif ;
+}
+
+topb{
+background-color: black;
+color: white;
+}
+
+bottomb{
+background-color: yellow;
 }
